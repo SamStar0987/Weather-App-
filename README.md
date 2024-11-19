@@ -1,4 +1,4 @@
-# Weather App 🌤️
+# Weather App 🌤️(https://awsomeweatherapp.netlify.app)
 
 A sleek and minimalistic weather application built using HTML, CSS, and JavaScript. This app allows users to search for real-time weather updates for any city worldwide, displaying essential information such as:
 
